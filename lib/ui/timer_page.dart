@@ -19,7 +19,10 @@ class TimerPage extends StatelessWidget {
             borderRadius: BorderRadius.vertical(bottom: Radius.circular(20))),
         foregroundColor: Color.fromARGB(255, 3, 3, 141),
         backgroundColor: Colors.pink[50],
-        title: const Text('Timer app'),
+        title: const Text(
+          'Timer app',
+        ),
+        titleTextStyle: TextStyle(fontSize: 18),
       ),
       body: Center(
         child: Column(
