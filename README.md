@@ -1,6 +1,6 @@
 # timerapp
 
-A new Flutter project.
+A new Flutter project for timer .
 
 ## Getting Started
 
